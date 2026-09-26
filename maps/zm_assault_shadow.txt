@@ -1,0 +1,16 @@
+zm_assault_shadow
+Zombie Mod
+by VIPGames
+
+
+Counter-terrorists:
+Avoid zombies at all cost 
+and try to survive till
+the time runs out.
+
+Zombies:
+Infect all Ct within the time limit.
+Every infected Ct automatically 
+becomes a Zombie.
+
+(Press FIRE to continue)
